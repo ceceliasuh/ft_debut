@@ -1,0 +1,62 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ft_debut.txt                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: cesuh <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/10 18:59:03 by cesuh             #+#    #+#              #
+#    Updated: 2018/07/10 19:04:22 by cesuh            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+1. In the most concise way possible, answer this question, what is 42? How would you describe 42 to someone who doesn’t know what 42 is?
+
+42 is a computer programming school that implements a non-traditional educational system with no teachers or classes. The educational model is structured on project-based learning, peer-to-peer corrections, and gamification of the curriculum. This system allows students to achieve levels at an individual pace.    
+
+2. Why are there no instructions on the initial 42 logic tests?
+
+The initial 42 logic tests measure the ability of potential candidates to seek out the solutions based on their own innate reasoning. The ability to use intuition and self-guidance instead of being provided with an instruction manual is an important indicator for potential success in the 42 program. 
+
+3. What are the core 42 principles?
+
+The core 42 principles include respect for the community as well as active participation in the community. Treat others (and the space) the way you would want to be treated. 
+
+4. If somebody is thinking of going to 42, but has no coding experience - do you really think it’s worth their time?
+
+Definitely! As long as they are passionate about learning and are determined to keep pushing through failures.
+
+5. What makes 42 unique?
+
+The modern teaching & learning environment and its emphasis on peer-to-peer learning make 42 unique. The absence of teachers and degrees but gaining concrete skills for the workforce sets 42 apart from traditional schools. 
+
+6. What do you think you’re learning the most at 42?
+
+Outside of the obvious (coding), I am learning how to get out of my comfort zone and seek help from my peers when I am struggling on a problem. Working and living together as a community is showing me the beauty of being thrust in an environment where people are constantly striving to grow and learn and solve real life problems through code.
+
+7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
+
+My next steps would be to refer to various sources using google, stack overflow, etc. I would try to research as much as possible to find the solution. After that, I would seek help from a peer in the lab - hoping they can point me in the right direction. 
+
+8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict deadlines?
+
+Through discipline. Motivation will not be enough to complete projects, especially when hitting a wall. Time management will be key - splitting up the required lab hours throughout the week, mainly mornings and afternoons. Sticking to a schedule will be the best way to stay motivated and healthy. Balancing out lab work with exercise and leisure time will be extra important in staying motivated. Another key component would be to remind myself WHY I'm at 42 in the first place and finding an area I am especially interested in. 
+
+9. If someone asks you why it says internships are required on the 42 website, but they do not offer job placement, what would you say?
+
+42 provides the skills needed to achieve success throughout an internship. The rest - finding the actual internship - in dependent on individual motivation. You need to put in the work.  
+
+10. How do the internships work? Is it mandatory that you have to reach a certain level before leaving on an internship or can you validate it anytime you find one?
+
+I believe internships occur after level 7 in achieved. It is up to the individual student to find their internships. Once at internship level, you are no longer allowed to reside in the dorms. 
+
+11. How does 42 help you to adapt to a work place?
+
+42 teaches you to work well with others and develops your interpersonal skills as well as your actual programming skills. Working well alongside a team will be an invaluable quality when adapting to a work place.
+
+Bonus
+
+Bocal current tasks:
+1. Elliott is petting the corgi and then taking a nap.
+2. Logan is adding a feature to Nostromo for keeping note of various work orders that get completed.
+3. Priscilla is working on a 42 tour video.
